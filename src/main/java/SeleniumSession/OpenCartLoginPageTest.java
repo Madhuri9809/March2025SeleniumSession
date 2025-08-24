@@ -22,7 +22,7 @@ public class OpenCartLoginPageTest {
 		eleUtil.doSendKeys(email, "naveen@open.com");
 		eleUtil.doSendKeys(password, "naveen@123");
 		
-		brUtil.QuitThenBrowser();
+	//	brUtil.QuitThenBrowser();
 
 	}
 
