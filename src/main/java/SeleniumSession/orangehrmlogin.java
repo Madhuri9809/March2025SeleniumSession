@@ -21,7 +21,7 @@ public class orangehrmlogin {
 		eutil.doclick(loginbtn);
 		System.out.println(butil.getPageTitle());
 		butil.CloseThenBrowser();
-		
+
 
 	}
 
